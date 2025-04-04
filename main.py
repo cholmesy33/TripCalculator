@@ -1,7 +1,7 @@
 import googlemaps 
 import datetime
 
-API_KEY = 'AIzaSyAKtpjaZ9RczgTiu2u7kWslmo6LhYVaxsg'
+API_KEY = ''
 
 gmaps = googlemaps.Client(key=API_KEY)
 
